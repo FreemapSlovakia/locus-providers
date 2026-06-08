@@ -470,7 +470,7 @@
     >
       <name>Freemap</name>
       <mode>Lesné cesty NLC</mode>
-      <url><![CDATA[https://tiles.freemap.sk/nlc2017/{z}/{x}/{y}.png]]></url>
+      <url><![CDATA[https://nlc.tiles.freemap.sk/{z}/{x}/{y}.png]]></url>
       <zoomPart>{z}-8</zoomPart>
       <zoomMin>19</zoomMin>
       <zoomMax>23</zoomMax>
